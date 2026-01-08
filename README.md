@@ -47,7 +47,7 @@ Wikipedia_pageviews/
 ```
 
 ### 🔄 DAG Tasks
-![Tasks](wikipedia_pageviews-graph.png)
+![Tasks](assets/wikipedia_pageviews-graph.png)
 
 | **Task**          | **Description**                       |
 |-------------------|---------------------------------------|
@@ -60,7 +60,7 @@ Wikipedia_pageviews/
 
 ## 📈 Sample Output
 After a successful pipeline run:
-![Email to admin after a successful run](success_mail.png)
+![Email to admin after a successful run](assets/success_mail.png)
 
 
 ## 📚 Data Source Documentation
