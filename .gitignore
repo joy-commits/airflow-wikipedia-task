@@ -1,0 +1,10 @@
+# Ignore all pipeline data
+include/data/raw/
+include/data/processed/
+
+# The data files
+*.gz
+*.txt
+
+# Env variables file
+.env
